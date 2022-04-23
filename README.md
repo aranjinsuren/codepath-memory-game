@@ -93,7 +93,7 @@ Demostrating start and stop buttons - secret pattern is randomized every time
   5) Making the project look more aesthetically pleasing.
      As of now, I have bare minimum knowledge of web development as I have only taken Python and Java courses.
      As I spend more time learning the languages, I would most definitely make the website look more aesthetically pleasing.
-  6) Dark Mode.
+  6) Dark Mode. You cannot go wrong with implementing dark mode.
   7) Scoring system. 
      If I had further knowledge and understanding, I would try to implement a way of keeping track of users' high scores. 
      To do this, I would have to implement another game method with infinite sequences (until the user fails).
