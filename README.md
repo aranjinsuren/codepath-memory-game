@@ -74,6 +74,7 @@ Demostrating start and stop buttons - secret pattern is randomized every time
    I am particularly interested in how web developers, as a team, make decisions of the design of the website.
    Obviously websites will have different designs and functionalities according to who will be using it and what it will be used for. How do you conduct  the user research and make the decision of the design and features as a team?
    As a follow-up question, from the little things such as text fonts to complicated features, when there are conflicting ideas and suggestions, how does a team decide which one to implement?
+   Furthermore, how does one make sure that the website is compatible across different devices?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
   
@@ -92,7 +93,12 @@ Demostrating start and stop buttons - secret pattern is randomized every time
   5) Making the project look more aesthetically pleasing.
      As of now, I have bare minimum knowledge of web development as I have only taken Python and Java courses.
      As I spend more time learning the languages, I would most definitely make the website look more aesthetically pleasing.
-
+  6) Dark Mode.
+  7) Scoring system. 
+     If I had further knowledge and understanding, I would try to implement a way of keeping track of users' high scores. 
+     To do this, I would have to implement another game method with infinite sequences (until the user fails).
+  8) I have noticed that when I play the game on my mobile device, the squares are all lined up vertically. 
+     I would implement a way to make the project compatibile across multiple devices.
 ## Interview Recording URL Link
 
 [My 5-minute Interview Recording](your-link-here)
