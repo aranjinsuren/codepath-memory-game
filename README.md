@@ -72,7 +72,7 @@ Demostrating start and stop buttons - secret pattern is randomized every time
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
    
    I am particularly interested in how web developers, as a team, make decisions of the design of the website.
-   Obviously websites will have different designs and functionalities according to who will be using it and what it will be used for. How do you conduct the user research and make the decision of the design and features as a team?
+   Obviously websites will have different designs and functionalities according to who will be using it and what it will be used for. How do you conduct  the user research and make the decision of the design and features as a team?
    As a follow-up question, from the little things such as text fonts to complicated features, when there are conflicting ideas and suggestions, how does a team decide which one to implement?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
@@ -80,18 +80,18 @@ Demostrating start and stop buttons - secret pattern is randomized every time
   Firstly, I would definitely try to read more into the other optional features that I was unable to implement such as limiting the amount of time for an user to enter their guess on each turn.
    Outside of the features suggested, here are some of the ideas that come to my mind:
 
-1) Asking the user how many rounds of sequences they would like to play. Currently, my code is currently restricted to strict 7 sequences by using a for loop.
-   I would most definitely implement a feature of asking the user to input how many rounds they would like to play.
-2) Asking the user how many buttons they would like to play with.
-   Currently, my project is limited to 5 buttons. If I had more time to spend on the project, I would definitely implement a feature to ask the user how many buttons they would like to play with.
-3) Adding a counter of how many chances the user has left.
-   Currently, although the user has three strikes, the website does not display the chances the user has remaining.
-4) Different default difficulty modes.
-   Easier difficulty mode would not speed up after each turn and have fewer buttons as a default.
-   Harder difficulty mode would speed up after each turn and have more buttons as a default.
-5) Making the project look more aesthetically pleasing.
-   As of now, I have bare minimum knowledge of web development as I have only taken Python and Java courses.
-   As I spend more time learning the languages, I would most definitely make the website look more aesthetically pleasing.
+  1) Asking the user how many rounds of sequences they would like to play. Currently, my code is currently restricted to strict 7 sequences by using a for loop.
+     I would most definitely implement a feature of asking the user to input how many rounds they would like to play.
+  2) Asking the user how many buttons they would like to play with.
+     Currently, my project is limited to 5 buttons. If I had more time to spend on the project, I would definitely implement a feature to ask the user how many buttons they would like to play with.
+  3) Adding a counter of how many chances the user has left.
+     Currently, although the user has three strikes, the website does not display the chances the user has remaining.
+  4) Different default difficulty modes.
+     Easier difficulty mode would not speed up after each turn and have fewer buttons as a default.
+     Harder difficulty mode would speed up after each turn and have more buttons as a default.
+  5) Making the project look more aesthetically pleasing.
+     As of now, I have bare minimum knowledge of web development as I have only taken Python and Java courses.
+     As I spend more time learning the languages, I would most definitely make the website look more aesthetically pleasing.
 
 ## Interview Recording URL Link
 
