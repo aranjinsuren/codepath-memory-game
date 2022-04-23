@@ -56,11 +56,13 @@ Demostrating start and stop buttons - secret pattern is randomized every time
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   [As I have never worked with HTML, JS, or CSS before, I have looked at the documentations to understand the languages more.
+  
+  [As I have never worked with HTML, JS, or CSS before, I have looked at the documentations to understand the languages more.
    A simple example of this would be for loops, constants, and variable initialization in JS. e.g: int i -> let i; var, const; etc.
    I have also looked up piano notes frequencies on Wikipedia.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
+   
    [Firstly, time was the biggest issue I had. I was informed of the program and the opportunity by my friend on the 22nd of April afternoon (the day of the deadline).
    As I mentioned above, as I had never worked with HTML, JS, or CSS before, I thought it would be impossible to finish within a day, but I still decided to give it a shot and see how it goes.
    When I was just starting, I did not think I would be able to add more features such as the computer picking different patterns or allowing users to make 3 mistakes, considering the time constraint,
@@ -68,12 +70,14 @@ Demostrating start and stop buttons - secret pattern is randomized every time
    more by implementing some of the optional features as much as I possibly could before the deadline. I am satisfied with the outcome considering the time constraint I have had.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+   
    [I am particularly interested in how web developers, as a team, make decisions of the design of the website.
    Obviously websites will have different designs and functionalities according to who will be using it and what it will be used for. How do you conduct the user research and make the decision of the design and features as a team?
    As a follow-up question, from the little things such as text fonts to complicated features, when there are conflicting ideas and suggestions, how does a team decide which one to implement?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
-   [Firstly, I would definitely try to read more into the other optional features that I was unable to implement such as limiting the amount of time for an user to enter their guess on each turn.
+  
+  [Firstly, I would definitely try to read more into the other optional features that I was unable to implement such as limiting the amount of time for an user to enter their guess on each turn.
    Outside of the features suggested, here are some of the ideas that come to my mind:
 
 1) Asking the user how many rounds of sequences they would like to play. Currently, my code is currently restricted to strict 7 sequences by using a for loop.
