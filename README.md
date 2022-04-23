@@ -101,7 +101,7 @@ Demostrating start and stop buttons - secret pattern is randomized every time
      I would implement a way to make the project compatibile across multiple devices.
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/6cb174d20af44d05bdcaff61723023a5)
 
 ## License
 
