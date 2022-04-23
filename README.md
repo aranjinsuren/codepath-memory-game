@@ -40,15 +40,15 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-Game winning scenario, 2 parts
-![x](https://im.ezgif.com/tmp/ezgif-1-0374cf7512.gif)
-![x](https://im.ezgif.com/tmp/ezgif-1-f3650a0dd3.gif)
+Game winning scenario
+![ezgif-3-8b0ad12fb6](https://user-images.githubusercontent.com/62941804/164871988-2ed4c858-1af6-4608-9918-204957849df8.gif)
+![ezgif-3-1915a0c573](https://user-images.githubusercontent.com/62941804/164872249-97cc8179-46d6-458f-bf4c-68123a0cfb5b.gif)
 
 Game losing scenario with 3 strikes
-![x](https://im.ezgif.com/tmp/ezgif-1-472195fe01.gif)
+![ezgif-3-492c0beac3](https://user-images.githubusercontent.com/62941804/164872571-58311354-84e2-41ef-a58a-0b5a1eb7f15e.gif)
 
 Demostrating start and stop buttons - secret pattern is randomized every time
-![x](https://im.ezgif.com/tmp/ezgif-1-17ba0d51f3.gif)
+![ezgif-3-25b06e535e](https://user-images.githubusercontent.com/62941804/164872594-c609a2a5-c040-4c1a-867e-ae242d65bb77.gif)
 
 ## Reflection Questions
 
