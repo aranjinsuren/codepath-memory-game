@@ -57,7 +57,7 @@ Demostrating start and stop buttons - secret pattern is randomized every time
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
   
-  As I have never worked with HTML, JS, or CSS before, I have looked at the documentations to understand the languages more.
+   As I have never worked with HTML, JS, or CSS before, I have looked at the documentations to understand the languages more.
    A simple example of this would be for loops, constants, and variable initialization in JS. e.g: int i -> let i; var, const; etc.
    I have also looked up piano notes frequencies on Wikipedia.
 
