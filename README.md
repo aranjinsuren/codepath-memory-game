@@ -95,9 +95,6 @@ Demostrating start and stop buttons - secret pattern is randomized every time
      To do this, I would have to implement another game method with infinite sequences (until the user fails).
   8) I have noticed that when I play the game on my mobile device, the squares are all lined up vertically. 
      I would implement a way to make the project compatibile across multiple devices.
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](https://www.loom.com/share/6cb174d20af44d05bdcaff61723023a5)
 
 ## License
 
